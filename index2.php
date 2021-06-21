@@ -79,7 +79,7 @@
 
     <?php
 
-
+    // Impressão de formulário HTML da página
     echo $html = '
     
     <form method="get" class="form-group" action="." style="margin-left: 12px; margin-top: 12px;">
